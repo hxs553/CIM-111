@@ -1,0 +1,119 @@
+body{
+
+background-color: gold;
+
+}
+
+
+.aboutme{
+background-color: white;
+font-family: 'Comic Sans', sans-serif;
+width:80vw;
+height:17vw;
+margin: 2vw;
+top: 1vw;
+padding-left: 5vw;
+padding-right: 5vw;
+}
+
+p{
+font-family: 'Comic Sans', sans-serif;
+}
+
+.contactinfo{
+width: 30vw;
+height: 17vw;
+background-color: white;
+margin: 2vw;
+color: black;
+padding-left: 2vw;
+padding-right: 2vw;
+font-size: 1.25em;
+padding-top: 2vw;
+font-family: 'Comic Sans', sans-serif;
+}
+
+.workexperience{
+width: 20vw;
+height: 17vw;
+background-color: white;
+margin:2vw;
+color: black;
+padding-left: 2vw;
+padding-right: 2vw; 
+left: 45vw;
+top: 1vw;
+font-size: 1.25em;
+font-family: 'Comic Sans', sans-serif;
+}
+
+#alias{
+width: 20vw;
+height: 15vw;
+background-color: white;
+margin:2vw;
+color: black;
+padding-left: 2vw;
+padding-right: 2vw; 
+left: 45vw;
+top: 1vw;
+font-size: 1.25em;
+font-family: 'Comic Sans', sans-serif;
+}
+
+#additional{
+width: 20vw;
+height: 15vw;
+background-color: white;
+margin:2vw;
+color: black;
+padding-left: 2vw;
+padding-right: 2vw; 
+left: 45vw;
+top: 1vw;
+font-size: 1.25em;
+font-family: 'Comic Sans', sans-serif;
+}
+
+#tablehype{
+width: 20vw;
+height: 13vw;
+background-color: white;
+margin:2vw;
+color: black;
+padding-left: 2vw;
+padding-right: 2vw; 
+left: 45vw;
+top: 1vw;
+font-size: 1.25em;
+font-family: 'Comic Sans', sans-serif;
+}
+
+.titlepage{
+font-family: 'Impact', sans-serif;
+background-color:red;
+color:white;
+border-radius: 30px;
+padding: 10px;
+width: 200px;
+height: 60px;
+text-align: center;
+}
+	/*This is something I learned outside the classroom*/
+
+.titlepagetwo{
+font-family:'Impact', sans-serif;
+background-color: red;
+color: white;
+border-radius: 50px;
+width: 300px;
+height: 50px;
+text-align: center;
+}
+
+a:visited{color: red;}
+
+a:link{text-decoration: none}
+
+a:hover{background-color: yellow;}
+
